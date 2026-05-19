@@ -13,37 +13,38 @@ The analysis is based on the [Gym Membership Dataset](https://www.kaggle.com/dat
 ___
 
 ## 📊 Dataset Content
-The dataset includes information about gym members and their behavior, such as:
+The dataset contains detailed information about gym members and their behavioral patterns. Key fields include:
 
-id — Unique member identifier
+🆔 id — Unique member identifier
 
-gender — Member gender
+🚻 gender — Member gender
 
-birthday / age — Demographic information
+🎂 birthday / age — Demographic information
 
-subscription_type — Membership plan
+💳 subscription_type — Membership plan
 
-visits_per_week — Weekly gym attendance
+📅 visits_per_week — Weekly gym attendance
 
-days_per_week — Days the member typically attends
+🗓️ days_per_week — Typical training days
 
-group_lesson_attendance — Participation in group classes
+👥 group_lesson_attendance — Participation in group classes
 
-favorite_lessons — Preferred group lessons
+⭐ favorite_lessons — Preferred group lessons
 
-check_in_time / check_out_time — Entry and exit times
+⏰ check_in_time / check_out_time — Entry and exit times
 
-avg_time_in_gym — Average session duration
+⏱️ avg_time_in_gym — Average session duration
 
-drink_subscription — Drink plan usage
 
-favorite_drink — Preferred drink
+🥤 drink_subscription — Drink plan usage
 
-personal_training — PT usage
+🍹 favorite_drink — Preferred drink
 
-trainer_name — Assigned trainer
+🏋️ personal_training — Personal training usage
 
-sauna_usage — Sauna usage frequency
+👨‍🏫 trainer_name — Assigned trainer
+
+🔥 sauna_usage — Sauna usage frequency
 ____
 
 ## 🧭 Project Overview
