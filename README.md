@@ -52,16 +52,33 @@ The goal of this project is to understand how gym members use the facilities and
 ____
 
 ## 🔧 Methodology
-The analysis includes:
+📌 1. Data Preparation
+   └─ Cleaning and transforming raw data using Power Query
+      • Fixed data types
+      • Removed inconsistencies
+      • Standardized formats
 
-Data cleaning and transformation (Power Query)
+📌 2. Feature Engineering
+   └─ Creating analytical fields with DAX
+      • Time‑based metrics
+      • Behavioral indicators
 
-Feature engineering (DAX)
+📌 3. Time-Based Analysis
+   └─ Understanding member activity patterns
+      • Check‑in / check‑out trends
+      • Attendance heatmap by day & hour
 
-Time-based analysis (check‑in/out, attendance heatmap)
+📌 4. Behavioral Segmentation
+   └─ Identifying usage patterns
+      • Visits per week
+      • Days attended
+      • Member behavior clusters
 
-Behavioral segmentation (visits per week, days attended)
+📌 5. Service Usage Analysis
+   └─ Evaluating engagement with gym services
+      • Personal training
+      • Sauna usage
+      • Group lessons
 
-Service usage analysis (PT, sauna, group lessons)
-
-Dashboard creation in Power BI
+📌 6. Dashboard Development
+   └─ Building an interactive
