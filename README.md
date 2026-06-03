@@ -87,7 +87,7 @@ ____
 ___
 ##  📊 Dashboard Overview
 
-![Screenshot de la aplicación](screenshots/overview.JPG)
+![Screenshot de la aplicación](screenshots/overview.png)
 
 ### ⭐ Key Behavioral Insights
 
