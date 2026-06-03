@@ -82,3 +82,23 @@ ____
 
 📌 6. Dashboard Development
    └─ Building an interactive
+
+
+___
+##  📊 Dashboard Overview
+
+### ⭐ Key Behavioral Insights
+
+1. Members show a stable weekly routine
+Most users visit the gym 3 times per week, which aligns with typical fitness engagement patterns. This suggests a healthy retention level and a consistent user base.
+
+2. Time spent per visit indicates strong engagement
+With an average session duration of 1h 45m, members are not just checking in—they are actively training. This is above industry averages (usually 60–90 minutes), indicating high facility usage.
+
+3. Attendance peaks on Sundays at 10:00
+The peak day (Sunday) and peak hour (10 AM) reveal a strong preference for weekend morning workouts.
+
+⭐ Demographic Insights
+4. Gender distribution is balanced
+The gym has a near 50/50 split between male and female members.
+This balance allows for neutral marketing strategies and diverse class offerings.
