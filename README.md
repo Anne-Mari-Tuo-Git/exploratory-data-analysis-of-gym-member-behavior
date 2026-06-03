@@ -87,6 +87,8 @@ ____
 ___
 ##  📊 Dashboard Overview
 
+![Screenshot de la aplicación](screenshots/overview.JPG)
+
 ### ⭐ Key Behavioral Insights
 
 1. Members show a stable weekly routine
@@ -98,7 +100,8 @@ With an average session duration of 1h 45m, members are not just checking in—t
 3. Attendance peaks on Sundays at 10:00
 The peak day (Sunday) and peak hour (10 AM) reveal a strong preference for weekend morning workouts.
 
-⭐ Demographic Insights
+### ⭐ Demographic Insights
+
 4. Gender distribution is balanced
 The gym has a near 50/50 split between male and female members.
 This balance allows for neutral marketing strategies and diverse class offerings.
