@@ -3,21 +3,82 @@
 This project is currently **in progress**.
 ___
 
-## 🧭 Project Overview
-The goal of this project is to understand how gym members use the facilities and services. Through exploratory data analysis, the project identifies behavioral patterns that can support operational decisions, resource planning, and customer experience improvements.
+# 📁 Exploratory Data Analysis of Gym Member Behavior
+This project explores gym member behavior through data cleaning, feature engineering, and visual analytics. The analysis focuses on age distribution, gender patterns, weekly visit frequency, attendance trends by day and hour, and service usage using Power BI.
 ___
 
+## 📌 Data Source
+The analysis is based on the [Gym Membership Dataset](https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset) available on Kaggle.
+
+___
+
+## 📊 Dataset Content
+The dataset contains detailed information about gym members and their behavioral patterns. Key fields include:
+
+🆔 id — Unique member identifier
+
+🚻 gender — Member gender
+
+🎂 birthday / age — Demographic information
+
+💳 subscription_type — Membership plan
+
+📅 visits_per_week — Weekly gym attendance
+
+🗓️ days_per_week — Typical training days
+
+👥 group_lesson_attendance — Participation in group classes
+
+⭐ favorite_lessons — Preferred group lessons
+
+⏰ check_in_time / check_out_time — Entry and exit times
+
+⏱️ avg_time_in_gym — Average session duration
+
+
+🥤 drink_subscription — Drink plan usage
+
+🍹 favorite_drink — Preferred drink
+
+🏋️ personal_training — Personal training usage
+
+👨‍🏫 trainer_name — Assigned trainer
+
+🔥 sauna_usage — Sauna usage frequency
+____
+
+## 🧭 Project Overview
+The goal of this project is to understand how gym members use the facilities and services. Through exploratory data analysis, the project identifies behavioral patterns that can support operational decisions, resource planning, and customer experience improvements.
+____
+
 ## 🔧 Methodology
-The analysis includes:
+📌 1. Data Preparation
+   └─ Cleaning and transforming raw data using Power Query
+      • Fixed data types
+      • Removed inconsistencies
+      • Standardized formats
 
-Data cleaning and transformation (Power Query)
+📌 2. Feature Engineering
+   └─ Creating analytical fields with DAX
+      • Time‑based metrics
+      • Behavioral indicators
 
-Feature engineering (DAX)
+📌 3. Time-Based Analysis
+   └─ Understanding member activity patterns
+      • Check‑in / check‑out trends
+      • Attendance heatmap by day & hour
 
-Time-based analysis (check‑in/out, attendance heatmap)
+📌 4. Behavioral Segmentation
+   └─ Identifying usage patterns
+      • Visits per week
+      • Days attended
+      • Member behavior clusters
 
-Behavioral segmentation (visits per week, days attended)
+📌 5. Service Usage Analysis
+   └─ Evaluating engagement with gym services
+      • Personal training
+      • Sauna usage
+      • Group lessons
 
-Service usage analysis (PT, sauna, group lessons)
-
-Dashboard creation in Power BI
+📌 6. Dashboard Development
+   └─ Building an interactive
