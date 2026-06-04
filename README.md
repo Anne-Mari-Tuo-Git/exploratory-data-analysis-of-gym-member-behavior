@@ -115,3 +115,11 @@ Yoga stands out as the most popular group class, indicating strong demand for lo
 
 Personal training usage is surprisingly high
 Around 50.89% of members use personal training, which is unusually strong for most gyms. Men use personal training slightly more than women.
+
+![Screenshot de la aplicación](screenshots/services_and_engagement.png)
+
+Yoga, BodyPump, and Running are the strongest defined categories
+Among the named classes, Yoga, BodyPump, and Running appear as the most popular.
+
+Trainer demand is unevenly distributed
+The gap between the top trainer and the least popular one is significant.
