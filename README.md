@@ -100,6 +100,8 @@ With an average session duration of 1h 45m, members are not just checking in—t
 3. Attendance peaks on Sundays at 10:00
 The peak day (Sunday) and peak hour (10 AM) reveal a strong preference for weekend morning workouts.
 
+![Screenshot de la aplicación](screenshots/Demographics_and_Preferences.png)
+
 ### ⭐ Demographic Insights
 
 4. Gender distribution is balanced
