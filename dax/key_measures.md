@@ -1,4 +1,4 @@
-Average Time Spent per Session (H:M)
+### :hourglass_flowing_sand: Average Time Spent per Session (H:M)
 
 Calculates the average time members spend in the gym per session and returns the result in a readable hours‑and‑minutes format (H:M)
 
@@ -17,7 +17,7 @@ RETURN
 ```
 
 
-Peak Attendance Day
+### :date: Peak Attendance Day
 
 Determines the weekday with the highest attendance by summarizing visit counts per day, ranking them using TOPN, and returning the day with the maximum number of recorded visits.
 
@@ -43,7 +43,7 @@ RETURN
 
 ```
 
-Peak Attendance Hour
+### :watch: Peak Attendance Hour
 
 Determines the hour with the highest gym attendance by summarizing visit counts per hour, ranking them with TOPN, and returning the hour with the maximum number of recorded check‑ins.
 
@@ -68,8 +68,7 @@ RETURN
 
 ```
 
-
-Most Common Age Group
+### :dart: Most Common Age Group
 
 Identifies the age group with the highest member frequency by grouping records, counting occurrences per age bin, ranking them with TOPN, and returning the category with the maximum count.
 
@@ -94,7 +93,7 @@ RETURN
 ```
 
 
-Gender Ratio (%)
+### Gender Ratio (%)
 
 Female %
 
@@ -111,11 +110,11 @@ DIVIDE(
 ```
 
 
-Personal Training Usage (%)
+### Personal Training Usage (%)
 
 ```DAX
 
-Most Popular Group Lesson
+### Most Popular Group Lesson
 ```DAX
 
 
