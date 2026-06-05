@@ -96,7 +96,19 @@ RETURN
 
 Gender Ratio (%)
 
+Female %
+
+Calculates the percentage of female members by dividing the count of records filtered by gender = ‘Female’ over the total member count. The Male % measure follows the same logic, changing the gender filter accordingly.
+
 ```DAX
+
+Female % = 
+DIVIDE(
+    CALCULATE(COUNTROWS(gym_membership), gym_membership[gender] = "Female"),
+    COUNTROWS(gym_membership)
+)
+
+```
 
 
 Personal Training Usage (%)
