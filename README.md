@@ -91,19 +91,35 @@ ___
 
 ### ⭐ Key Behavioral Insights
 
-1. Members show a stable weekly routine
+Members show a stable weekly routine
 Most users visit the gym 3 times per week, which aligns with typical fitness engagement patterns. This suggests a healthy retention level and a consistent user base.
 
-2. Time spent per visit indicates strong engagement
+Time spent per visit indicates strong engagement
 With an average session duration of 1h 45m, members are not just checking in—they are actively training. This is above industry averages (usually 60–90 minutes), indicating high facility usage.
 
-3. Attendance peaks on Sundays at 10:00
+Attendance peaks on Sundays at 10:00
 The peak day (Sunday) and peak hour (10 AM) reveal a strong preference for weekend morning workouts.
 
 ![Screenshot de la aplicación](screenshots/Demographics_and_Preferences.png)
 
 ### ⭐ Demographic Insights
 
-4. Gender distribution is balanced
-The gym has a near 50/50 split between male and female members.
-This balance allows for neutral marketing strategies and diverse class offerings.
+The gym attracts a young demographic
+The 20–29 age group is by far the largest segment, with close to 800 members.
+
+Gender distribution is almost perfectly balanced
+With 50.97% female and 49.03% male, the gym has a highly balanced membership base.
+
+Yoga is the dominant group lesson
+Yoga stands out as the most popular group class, indicating strong demand for low‑impact, mind–body activities.
+
+Personal training usage is surprisingly high
+Around 50.89% of members use personal training, which is unusually strong for most gyms. Men use personal training slightly more than women.
+
+![Screenshot de la aplicación](screenshots/services_and_engagement.png)
+
+Yoga, BodyPump, and Running are the strongest defined categories
+Among the named classes, Yoga, BodyPump, and Running appear as the most popular.
+
+Trainer demand is unevenly distributed
+The gap between the top trainer and the least popular one is significant.
